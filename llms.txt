@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nasini-el-donya/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Nasini El Donya](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
