@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nasini El Donya
+
+This log tracks the cryptographic history and versioning for the song **Nasini El Donya** (nasini-el-donya).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:22:38.279869 | `v1` | `fa32c8ebdde948d1056dbf558e8e66b1e337c9b861da9843e7dd767cbdb10199` | `3d126d4d77e3582961f7da5fdf2ace5c191111e3d98cc1497444bb947edd6c47` | `2026-05-09_nasini-el-donya-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
